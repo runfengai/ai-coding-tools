@@ -1,18 +1,18 @@
 # Tabnine
 
-## Features
-- AI-Powered Code Completion
-- Supports multiple programming languages
-- Seamless integration with IDEs
+## 功能
+- 基于 AI 的代码补全
+- 支持多种编程语言
+- 与 IDE 的无缝集成
 
-## Installation
-1. Download the plugin from [Tabnine's website](https://www.tabnine.com).
-2. Install it in your IDE through the plugin manager.
+## 安装
+1. 从 [Tabnine 的网站](https://www.tabnine.com) 下载插件。
+2. 通过插件管理器在你的 IDE 中安装它。
 
-## Pricing
-- Free basic version
-- Pro version available for $12/month with additional features.
+## 定价
+- 免费基础版本
+- 付费专业版，每月 $12，提供更多功能。
 
-## Best Practices
-- Customize your settings for optimal suggestions.
-- Regularly update the plugin for the latest enhancements.
+## 最佳实践
+- 自定义设置以获得最佳建议。
+- 定期更新插件以获取最新增强功能。
